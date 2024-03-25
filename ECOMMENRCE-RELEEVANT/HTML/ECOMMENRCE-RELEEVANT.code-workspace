@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../HTML/Clase 2"
+		},
+		{
+			"path": "../../HTML/clase1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ECOMMENRCE-RELEEVANT"
+	}
+}
